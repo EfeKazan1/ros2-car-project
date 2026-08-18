@@ -11,7 +11,7 @@ ROS2/Gazebo simülasyon ortamında geliştirilmesi.
 
 ## Yapı
 - `worlds/` — Gazebo dünya/SDF dosyaları
-- pose_ve_twist.py Python Dosyası
+- `pose_ve_twist.py` Python Dosyası
                                  
 ## Durum
 - FSM tabanlı hareket kontrolcüsü (HEDEF_SEC / DON / ILERLE) çalışıyor
